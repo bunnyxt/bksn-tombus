@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(235, 237, 245);
+  margin: 0;
+}
+
+#panel {
+  background-color: rgb(235, 237, 245);
+  padding: 16px;
+}
+
+.btn {
+  width: 92px;
+  height: 28px;
+  font-size: 14px;
+  border-radius: 8px;
+}
+
+#chatline {
+  background-color: rgb(235, 237, 245);
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.message {
+  overflow: hidden;
+  background-color: rgb(235, 237, 245);
+  padding-bottom: 20px;
+}
+
+.inner-message {
+  overflow: hidden;
+  background-color: rgb(235, 237, 245);
+  padding: 10px 10px 10px 10px;
+  border: 1px solid rgb(225, 229, 236);
+  border-radius: 16px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  float: left;
+}
+
+.content {
+  margin-left: 10px;
+  float: left;
+}
+
+.title {
+  margin-bottom: 10px;
+  color: rgb(135, 139, 153);
+  font-size: 16px;
+}
+
+.bksn {
+  border-radius: 16px;
+  width: 100px;
+  height: 100px;
+  background-color: #ffffff;
+  border: 1px solid rgb(225, 229, 236);
+}
+
+.tmp {
+  border-radius: 16px;
+  /* background-color: rgb(235, 237, 245); */
+  background-color: #ffffff;
+  overflow: hidden;
+  padding: 10px;
+}
