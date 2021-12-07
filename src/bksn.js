@@ -26,6 +26,7 @@ function bksn() {
     'avatar10.jpg',
     'avatar11.jpg',
     'avatar12.jpg',
+    'avatar13.jpg',
   ];
   avatar.setAttribute('src', '/src/' + tombusAvatars[Math.floor((Math.random() * tombusAvatars.length))])
   message.appendChild(avatar);
